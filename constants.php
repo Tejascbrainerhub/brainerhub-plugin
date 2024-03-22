@@ -1,0 +1,3 @@
+<?php
+define( 'BRAINERHUB-DEMO-PLUGIN_PATH', __FILE__ );
+define( 'BRAINERHUB-DEMO-PLUGIN_URL', __FILE__ );
